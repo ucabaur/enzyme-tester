@@ -1,0 +1,41 @@
+{
+  "name": "enzyme-tester",
+  "version": "1.0.0",
+  "description": "An app to demo enzyme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucabaur/enzyme-tester.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Enzyme",
+    "Mocha",
+    "Chai"
+  ],
+  "author": "Ambroise Laurent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucabaur/enzyme-tester/issues"
+  },
+  "homepage": "https://github.com/ucabaur/enzyme-tester#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "webpack": "^1.13.2"
+  }
+}
